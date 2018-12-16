@@ -1,0 +1,104 @@
+,link,conference,title
+0,http://aclweb.org/anthology/D16-1008,emnlp-2016,learning to recognize discontiguous entities
+1,http://aclweb.org/anthology/D16-1012,emnlp-2016,deep multi-task learning with shared memory for text classification
+2,http://aclweb.org/anthology/D16-1020,emnlp-2016,learning connective-based word representations for implicit discourse relation identification
+3,http://aclweb.org/anthology/D16-1021,emnlp-2016,aspect level sentiment classification with deep memory network
+4,http://aclweb.org/anthology/D16-1023,emnlp-2016,learning sentence embeddings with auxiliary tasks for cross-domain sentiment classification
+5,http://aclweb.org/anthology/D16-1028,emnlp-2016,semi-supervised learning of sequence models with method of moments
+6,http://aclweb.org/anthology/D16-1029,emnlp-2016,learning from explicit and implicit supervision jointly for algebra word problems
+7,http://aclweb.org/anthology/D16-1039,emnlp-2016,learning term embeddings for taxonomic relation identification using dynamic weighting neural network
+8,http://aclweb.org/anthology/D16-1043,emnlp-2016,comparing data sources and architectures for deep visual representation learning in semantics
+9,http://aclweb.org/anthology/D16-1055,emnlp-2016,learning to translate for multilingual question answering
+10,http://aclweb.org/anthology/D16-1061,emnlp-2016,emotion distribution learning from texts
+11,http://aclweb.org/anthology/D16-1063,emnlp-2016,wordrank: learning word embeddings via robust ranking
+12,http://aclweb.org/anthology/D16-1080,emnlp-2016,keyphrase extraction using deep recurrent neural networks on twitter
+13,http://aclweb.org/anthology/D16-1083,emnlp-2016,learning to represent review with tensor decomposition for spam detection
+14,http://aclweb.org/anthology/D16-1087,emnlp-2016,named entity recognition for novel types by transfer learning
+15,http://aclweb.org/anthology/D16-1092,emnlp-2016,human attention in visual question answering: do humans and deep networks look at the same regions?
+16,http://aclweb.org/anthology/D16-1093,emnlp-2016,recurrent residual learning for sequence classification
+17,http://aclweb.org/anthology/D16-1127,emnlp-2016,deep reinforcement learning for dialogue generation
+18,http://aclweb.org/anthology/D16-1136,emnlp-2016,learning crosslingual word embeddings without bilingual corpora
+19,http://aclweb.org/anthology/D16-1137,emnlp-2016,sequence-to-sequence learning as beam-search optimization
+20,http://aclweb.org/anthology/D16-1155,emnlp-2016,jointly learning grounded task structures from language instruction and visual demonstration
+21,http://aclweb.org/anthology/D16-1163,emnlp-2016,transfer learning for low-resource neural machine translation
+22,http://aclweb.org/anthology/D16-1167,emnlp-2016,learning to generate textual data
+23,http://aclweb.org/anthology/D16-1173,emnlp-2016,deep neural networks with massive learned knowledge
+24,http://aclweb.org/anthology/D16-1189,emnlp-2016,deep reinforcement learning with a combinatorial action space for predicting popular reddit threads
+25,http://aclweb.org/anthology/D16-1198,emnlp-2016,supervised keyphrase extraction as positive unlabeled learning
+26,http://aclweb.org/anthology/D16-1199,emnlp-2016,learning to answer questions from wikipedia infoboxes
+27,http://aclweb.org/anthology/D16-1207,emnlp-2016,learning robust representations of text
+28,http://aclweb.org/anthology/D16-1220,emnlp-2016,learning to identify metaphors from a corpus of proverbs
+29,http://aclweb.org/anthology/D16-1225,emnlp-2016,learning to capitalize with character-level recurrent neural networks: an empirical study
+30,http://aclweb.org/anthology/D16-1227,emnlp-2016,learning to refine text based recommendations
+31,http://aclweb.org/anthology/D16-1233,emnlp-2016,conditional generation and snapshot learning in neural dialogue systems
+32,http://aclweb.org/anthology/D16-1243,emnlp-2016,learning to generate compositional color descriptions
+33,http://aclweb.org/anthology/D16-1245,emnlp-2016,deep reinforcement learning for mention-ranking coreference models
+34,http://aclweb.org/anthology/D16-1250,emnlp-2016,learning principled bilingual mappings of word embeddings while preserving monolingual invariance
+35,http://aclweb.org/anthology/D16-1261,emnlp-2016,improving information extraction by acquiring external evidence with reinforcement learning
+36,http://aclweb.org/anthology/D16-1263,emnlp-2016,learning a lexicon and translation model from phoneme lattices
+37,http://aclweb.org/anthology/P16-1001,acl-2016,noise reduction and targeted exploration in imitation learning for abstract meaning representation parsing
+38,http://aclweb.org/anthology/P16-1012,acl-2016,language transfer learning for supervised lexical substitution
+39,http://aclweb.org/anthology/P16-1013,acl-2016,learning the curriculum with bayesian optimization for task-specific word representation learning
+40,http://aclweb.org/anthology/P16-1020,acl-2016,adaptive joint learning of compositional and non-compositional phrase embeddings
+41,http://aclweb.org/anthology/P16-1024,acl-2016,on the role of seed lexicons in learning bilingual word embeddings
+42,http://aclweb.org/anthology/P16-1031,acl-2016,bi-transferring deep neural networks for domain adaptation
+43,http://aclweb.org/anthology/P16-1033,acl-2016,active learning for dependency parsing with partial annotation
+44,http://aclweb.org/anthology/P16-1039,acl-2016,neural word segmentation learning for chinese
+45,http://aclweb.org/anthology/P16-1043,acl-2016,easy questions first? a case study on curriculum learning for question answering
+46,http://aclweb.org/anthology/P16-1044,acl-2016,improved representation learning for question answer matching
+47,http://aclweb.org/anthology/P16-1061,acl-2016,improving coreference resolution by learning entity-level distributed representations
+48,http://aclweb.org/anthology/P16-1074,acl-2016,chinese zero pronoun resolution with deep neural networks
+49,http://aclweb.org/anthology/P16-1075,acl-2016,constrained multi-task learning for automated essay scoring
+50,http://aclweb.org/anthology/P16-1090,acl-2016,unanimous prediction for 100\% precision with application to learning semantic mappings
+51,http://aclweb.org/anthology/P16-1092,acl-2016,cross-lingual lexico-semantic transfer in language learning
+52,http://aclweb.org/anthology/P16-1093,acl-2016,a call system for learning preposition usage
+53,http://aclweb.org/anthology/P16-1095,acl-2016,discriminative deep random walk for network classification
+54,http://aclweb.org/anthology/P16-1096,acl-2016,normalising medical concepts in social media texts by learning semantic representation
+55,http://aclweb.org/anthology/P16-1097,acl-2016,agreement-based learning of parallel lexicons and phrases from non-parallel corpora
+56,http://aclweb.org/anthology/P16-1098,acl-2016,deep fusion lstms for text semantic matching
+57,http://aclweb.org/anthology/P16-1110,acl-2016,alto: active learning with topic overviews for speeding label induction and document labeling
+58,http://aclweb.org/anthology/P16-1121,acl-2016,learning semantically and additively compositional distributional representations
+59,http://aclweb.org/anthology/P16-1128,acl-2016,learning word meta-embeddings
+60,http://aclweb.org/anthology/P16-1133,acl-2016,cross-lingual sentiment classification with bilingual document representation learning
+61,http://aclweb.org/anthology/P16-1136,acl-2016,compositional learning of embeddings for relation paths in knowledge base and text
+62,http://aclweb.org/anthology/P16-1143,acl-2016,lexsemtm: a semantic dataset based on all-words unsupervised sense distribution learning
+63,http://aclweb.org/anthology/P16-1146,acl-2016,optimizing spectral learning for parsing
+64,http://aclweb.org/anthology/P16-1147,acl-2016,stack-propagation: improved representation learning for syntax
+65,http://aclweb.org/anthology/P16-1152,acl-2016,learning structured predictors from bandit feedback for interactive nlp
+66,http://aclweb.org/anthology/P16-1153,acl-2016,deep reinforcement learning with a natural language action space
+67,http://aclweb.org/anthology/P16-1154,acl-2016,incorporating copying mechanism in sequence-to-sequence learning
+68,http://aclweb.org/anthology/P16-1158,acl-2016,"take and took, gaggle and goose, book and read: evaluating the utility of vector differences for lexical relation learning"
+69,http://aclweb.org/anthology/P16-1163,acl-2016,implicit discourse relation detection via a deep architecture with gated relevance network
+70,http://aclweb.org/anthology/P16-1167,acl-2016,learning prototypical event structure from photo albums
+71,http://aclweb.org/anthology/P16-1169,acl-2016,learning concept taxonomies from multi-modal data
+72,http://aclweb.org/anthology/P16-1174,acl-2016,a trainable spaced repetition model for language learning
+73,http://aclweb.org/anthology/P16-1175,acl-2016,user modeling in language learning with macaronic texts
+74,http://aclweb.org/anthology/P16-1177,acl-2016,learning text pair similarity with context-sensitive autoencoders
+75,http://aclweb.org/anthology/P16-1185,acl-2016,semi-supervised learning for neural machine translation
+76,http://aclweb.org/anthology/P16-1188,acl-2016,learning-based single-document summarization with compression and anaphoricity constraints
+77,http://aclweb.org/anthology/P16-1190,acl-2016,jointly learning to embed and predict with multiple languages
+78,http://aclweb.org/anthology/P16-1202,acl-2016,learning to use formulas to solve simple arithmetic problems
+79,http://aclweb.org/anthology/P16-1210,acl-2016,domain adaptation for authorship attribution: improved structural correspondence learning
+80,http://aclweb.org/anthology/P16-1224,acl-2016,learning language games through interaction
+81,http://aclweb.org/anthology/P16-1225,acl-2016,finding non-arbitrary form-meaning systematicity using string-metric learning for kernel regression
+82,http://aclweb.org/anthology/P16-1228,acl-2016,harnessing deep neural networks with logic rules
+83,http://aclweb.org/anthology/P16-1230,acl-2016,on-line active reward learning for policy optimisation in spoken dialogue systems
+84,http://aclweb.org/anthology/P16-2003,acl-2016,learning multiview embeddings of twitter users
+85,http://aclweb.org/anthology/P16-2008,acl-2016,sequence-to-sequence generation for spoken dialogue via deep syntax trees and strings
+86,http://aclweb.org/anthology/P16-2019,acl-2016,leveraging lexical resources for learning entity embeddings in multi-relational data
+87,http://aclweb.org/anthology/P16-2025,acl-2016,improving named entity recognition for chinese social media with word segmentation representation learning
+88,http://aclweb.org/anthology/P16-2031,acl-2016,multi-modal representations for improved bilingual lexicon learning
+89,http://aclweb.org/anthology/P16-2035,acl-2016,the red one!: on learning to refer to things based on discriminative properties
+90,http://aclweb.org/anthology/P16-2036,acl-2016,"don&#39;t count, predict! an automatic approach to learning sentiment lexicons for short text"
+91,http://aclweb.org/anthology/P16-2038,acl-2016,deep multi-task learning with low level tasks supervised at lower layers
+92,http://aclweb.org/anthology/P16-2039,acl-2016,domain specific named entity recognition referring to the real world by deep neural networks
+93,http://aclweb.org/anthology/P16-2059,acl-2016,learning monolingual compositional representations via bilingual supervision
+94,http://aclweb.org/anthology/P16-2084,acl-2016,is &quot;universal syntax&quot; universally useful for learning distributed word representations?
+95,http://aclweb.org/anthology/P16-2093,acl-2016,deep neural networks for syntactic parsing of morphologically rich languages
+96,http://aclweb.org/anthology/P16-3022v2,acl-2016,a personalized markov clustering and deep learning approach for arabic text categorization
+97,http://aclweb.org/anthology/P16-4002,acl-2016,online information retrieval for language learning
+98,http://aclweb.org/anthology/P16-4004,acl-2016,"deeplife: an entity-aware search, analytics and exploration platform for health and life sciences"
+99,http://aclweb.org/anthology/P16-4019,acl-2016,an advanced press review system combining deep news analysis and machine learning algorithms
+100,http://aclweb.org/anthology/P16-4020,acl-2016,personalized exercises for preposition learning
+101,http://aclweb.org/anthology/P16-4021,acl-2016,my science tutorâlearning science with a conversational virtual tutor
+102,http://aclweb.org/anthology/P16-4023,acl-2016,creating interactive macaronic interfaces for language learning

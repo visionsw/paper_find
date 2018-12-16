@@ -1,0 +1,16 @@
+,link,conference,title
+0,http://aclweb.org/anthology/D18-1120,emnlp-2018,attention-based capsule networks with dynamic routing for relation extraction
+1,http://aclweb.org/anthology/D18-1125,emnlp-2018,genre separation network with adversarial training for cross-genre relation extraction
+2,http://aclweb.org/anthology/D18-1157,emnlp-2018,reside: improving distantly-supervised neural relation extraction using side information
+3,http://aclweb.org/anthology/D18-1243,emnlp-2018,neural relation extraction via inner-sentence noise reduction and transfer learning
+4,http://aclweb.org/anthology/D18-1244,emnlp-2018,graph convolution over pruned dependency trees improves relation extraction
+5,http://aclweb.org/anthology/D18-1245,emnlp-2018,multi-level structured self-attentions for distantly supervised relation extraction
+6,http://aclweb.org/anthology/D18-1246,emnlp-2018,n-ary relation extraction using graph-state lstm
+7,http://aclweb.org/anthology/D18-1247,emnlp-2018,hierarchical relation extraction with coarse-to-fine grained attention
+8,http://aclweb.org/anthology/D18-1248,emnlp-2018,label-free distant supervision for relation extraction via knowledge graph embedding
+9,http://aclweb.org/anthology/D18-1307,emnlp-2018,adversarial training for multi-context joint entity and relation extraction
+10,http://aclweb.org/anthology/D18-2008,emnlp-2018,dere: a task and domain-independent slot filling framework for declarative relation extraction
+11,http://aclweb.org/anthology/P18-1046,acl-2018,dsgan: generative adversarial training for distant supervision relation extraction
+12,http://aclweb.org/anthology/P18-1199,acl-2018,robust distant supervision relation extraction via deep reinforcement learning
+13,http://aclweb.org/anthology/P18-2014,acl-2018,a walk-based model on entity graphs for relation extraction
+14,http://aclweb.org/anthology/P18-2015,acl-2018,ranking-based automatic seed selection and noise reduction for weakly supervised relation extraction
